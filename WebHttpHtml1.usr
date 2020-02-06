@@ -56,8 +56,8 @@ Order="Speaker__*delimiter*__Tablets"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
-LastReplayedRunName=result1
-ActiveRunName=result1
+LastReplayedRunName=
+ActiveRunName=
 [Transactions]
 Speaker=
 Tablets=

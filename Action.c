@@ -1,6 +1,6 @@
 Action()
 {
-
+    //Sample LR Script
 	web_add_cookie("userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D; DOMAIN=10.41.37.191");
 
 	web_add_header("Upgrade-Insecure-Requests", 
